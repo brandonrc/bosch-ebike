@@ -208,3 +208,5 @@ Install io.appium.settings https://github.com/appium/io.appium.settings
 [Bosch active can data](https://www.pedelecforum.de/forum/index.php?threads/bosch-active-can-daten-sammlung.40358/post-682576)
 
 [Bosch actice IDs](https://www.pedelecforum.de/forum/index.php?threads/bosch-active-can-daten-sammlung.40358/post-745435)
+[Bosch USB COM](https://www.pedelecforum.de/forum/index.php?threads/classic-can-bus-daten-usw.17799/page-9#post-862775)
+[Bosch USB COM/PDF](https://www.pedelecforum.de/forum/index.php?attachments/bosch-pdf.149978/)
