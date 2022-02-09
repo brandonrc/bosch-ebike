@@ -8,6 +8,9 @@ WIRE-AT3-400-OE or WIRE-AT3-600-OE [Enviolo Main Cable - elektrofahrrad24.de](ht
 
 J16: [Hirose HR30-6PB-6S / HR30-6PB-6S ](https://www.hirose.com/de/product/document?clcode=&productname=&series=HR30&documenttype=Catalog&lang=de&documentid=D49406_en) 
 
+<img src="./img/J16-H30-Female.jpg" width="20%" height="20%">
+
+
 **Distributor:**
   - [mouser.de - HR30-6PB-6S](https://www.mouser.de/ProductDetail/Hirose-Connector/HR30-6PB-6S?qs=sGAEpiMZZMtneIuP4Zx3qSkiEfqOq13WfNdofNGQK5w%3D)
   - [digikey.de - HR30-6PB-6S](https://www.digikey.de/de/products/detail/hirose-electric-co-ltd/HR30-6PB-6S/2268389)
