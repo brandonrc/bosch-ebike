@@ -2,13 +2,22 @@
 
 <img src="./img/Enviolo-AUTOMATiQ-Cabel.png" width="70%" height="70%">
 
+**Connection WIRE-AT3-400-OE / WIRE-AT3-600-OE:**
+| J6       |      SIGNAL  |  J15 |
+|----------|--------------|------|
+| 1        | CAN_H        | 2    |
+| 2        | V_BAT (36V)  | 1    |
+| 3        | GND          | 3    |
+| 4        | CAN_L        | 5    |
+
+
 [Manual Page 29](https://enviolo.com/wp-content/uploads/Technical-Manual-enviolo-CY2021_June-2021.pdf)
 
 WIRE-AT3-400-OE or WIRE-AT3-600-OE [Enviolo Main Cable - elektrofahrrad24.de](https://www.elektrofahrrad24.de/enviolo-automatiq-hauptkabel)
 
 J16: [Hirose HR30-6PB-6S / HR30-6PB-6S ](https://www.hirose.com/de/product/document?clcode=&productname=&series=HR30&documenttype=Catalog&lang=de&documentid=D49406_en) 
 
-<img src="./img/J16-H30-Female.jpg" width="20%" height="20%">
+<img src="./img/J16-H30-Female.jpg" width="50%" height="50%">
 
 
 **Distributor:**
