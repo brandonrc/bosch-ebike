@@ -1,6 +1,8 @@
 - [ebike](#ebike)
   - [CAN - BUS](#can---bus)
     - [CPC-USB Pinout](#cpc-usb-pinout)
+    - [CAN Interface](#can-interface)
+      - [SuperCAN](#supercan)
   - [CLI CAN-Bus Tools](#cli-can-bus-tools)
     - [can-utils](#can-utils)
       - [INSTALL on linux](#install-on-linux)
@@ -60,6 +62,14 @@ The CAN interface connector (D­Sub 9 male) for the standardversion complies to 
 | 9   | -     |
 
 <img src="./img/adapter/BoschCANKabel.jpg" width="20%" height="20%">
+
+
+### CAN Interface
+#### SuperCAN
+A cheap way to get a USB CAN Bus interface is the [Adafruit Feather M4 CAN Express](https://www.adafruit.com/product/4759) board. The [SuperCAN](https://github.com/jgressmann/supercan) project support it sice firmware release [v1.0.14](https://github.com/jgressmann/supercan/releases/tag/v1.0.14). After build and install the linux driver set it up like a common CAN USB interface. SuperCAN also supports CAN FD may be interesting for the new BOSCH Smart System.
+
+A big thanks to  [Jean Gressmann](https://github.com/jgressmann)
+
 
 ## CLI CAN-Bus Tools
 ### can-utils
